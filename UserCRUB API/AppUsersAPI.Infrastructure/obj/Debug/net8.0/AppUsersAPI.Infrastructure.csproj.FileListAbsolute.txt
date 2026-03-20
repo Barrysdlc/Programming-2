@@ -15,3 +15,21 @@ C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.
 C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsersAPI.Infrastructure.pdb
 C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsersAPI.Infrastructure.genruntimeconfig.cache
 C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\ref\AppUsersAPI.Infrastructure.dll
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\bin\Debug\net8.0\AppUsersAPI.Infrastructure.deps.json
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\bin\Debug\net8.0\AppUsersAPI.Infrastructure.runtimeconfig.json
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\bin\Debug\net8.0\AppUsersAPI.Infrastructure.dll
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\bin\Debug\net8.0\AppUsersAPI.Infrastructure.pdb
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\bin\Debug\net8.0\AppUsersAPI.Domain.dll
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\bin\Debug\net8.0\AppUsersAPI.Domain.pdb
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsersAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsersAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsersAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsersAPI.Infrastructure.AssemblyInfo.cs
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsersAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsersAPI.Infrastructure.sourcelink.json
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsers.804A9FFA.Up2Date
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsersAPI.Infrastructure.dll
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\refint\AppUsersAPI.Infrastructure.dll
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsersAPI.Infrastructure.pdb
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsersAPI.Infrastructure.genruntimeconfig.cache
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\ref\AppUsersAPI.Infrastructure.dll

@@ -9,3 +9,15 @@ C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Domain\obj\Debug\net8.0\AppUse
 C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Domain\obj\Debug\net8.0\refint\AppUsersAPI.Domain.dll
 C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Domain\obj\Debug\net8.0\AppUsersAPI.Domain.pdb
 C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Domain\obj\Debug\net8.0\ref\AppUsersAPI.Domain.dll
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Domain\bin\Debug\net8.0\AppUsersAPI.Domain.deps.json
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Domain\bin\Debug\net8.0\AppUsersAPI.Domain.dll
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Domain\bin\Debug\net8.0\AppUsersAPI.Domain.pdb
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Domain\obj\Debug\net8.0\AppUsersAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Domain\obj\Debug\net8.0\AppUsersAPI.Domain.AssemblyInfoInputs.cache
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Domain\obj\Debug\net8.0\AppUsersAPI.Domain.AssemblyInfo.cs
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Domain\obj\Debug\net8.0\AppUsersAPI.Domain.csproj.CoreCompileInputs.cache
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Domain\obj\Debug\net8.0\AppUsersAPI.Domain.sourcelink.json
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Domain\obj\Debug\net8.0\AppUsersAPI.Domain.dll
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Domain\obj\Debug\net8.0\refint\AppUsersAPI.Domain.dll
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Domain\obj\Debug\net8.0\AppUsersAPI.Domain.pdb
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Domain\obj\Debug\net8.0\ref\AppUsersAPI.Domain.dll
