@@ -1,0 +1,466 @@
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\SystemAdminAPI.staticwebassets.endpoints.json
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\SystemAdminAPI.exe
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\SystemAdminAPI.deps.json
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\SystemAdminAPI.runtimeconfig.json
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\SystemAdminAPI.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\SystemAdminAPI.pdb
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\obj\Debug\net8.0\SystemAdminAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\obj\Debug\net8.0\SystemAdminAPI.AssemblyInfoInputs.cache
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\obj\Debug\net8.0\SystemAdminAPI.AssemblyInfo.cs
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\obj\Debug\net8.0\SystemAdminAPI.csproj.CoreCompileInputs.cache
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\obj\Debug\net8.0\SystemAdminAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\obj\Debug\net8.0\scopedcss\bundle\SystemAdminAPI.styles.css
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\obj\Debug\net8.0\SystemAdminAPI.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\obj\Debug\net8.0\refint\SystemAdminAPI.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\obj\Debug\net8.0\SystemAdminAPI.pdb
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\obj\Debug\net8.0\SystemAdminAPI.genruntimeconfig.cache
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\obj\Debug\net8.0\ref\SystemAdminAPI.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\obj\Debug\net8.0\SystemAdminAPI.csproj.AssemblyReference.cache
+C:\Users\henry\OneDrive\Desktop\Projects\C#\SystemAdminAPI\obj\Debug\net8.0\SystemAd.8EECCFC5.Up2Date
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\SystemAdminAPI.staticwebassets.endpoints.json
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\SystemAdminAPI.exe
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\SystemAdminAPI.deps.json
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\SystemAdminAPI.runtimeconfig.json
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\SystemAdminAPI.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\SystemAdminAPI.pdb
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\uncle\Music\SystemAdminAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\uncle\Music\SystemAdminAPI\obj\Debug\net8.0\SystemAdminAPI.csproj.AssemblyReference.cache
+C:\Users\uncle\Music\SystemAdminAPI\obj\Debug\net8.0\SystemAdminAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uncle\Music\SystemAdminAPI\obj\Debug\net8.0\SystemAdminAPI.AssemblyInfoInputs.cache
+C:\Users\uncle\Music\SystemAdminAPI\obj\Debug\net8.0\SystemAdminAPI.AssemblyInfo.cs
+C:\Users\uncle\Music\SystemAdminAPI\obj\Debug\net8.0\SystemAdminAPI.csproj.CoreCompileInputs.cache
+C:\Users\uncle\Music\SystemAdminAPI\obj\Debug\net8.0\SystemAdminAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\uncle\Music\SystemAdminAPI\obj\Debug\net8.0\SystemAdminAPI.sourcelink.json
+C:\Users\uncle\Music\SystemAdminAPI\obj\Debug\net8.0\scopedcss\bundle\SystemAdminAPI.styles.css
+C:\Users\uncle\Music\SystemAdminAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\uncle\Music\SystemAdminAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\uncle\Music\SystemAdminAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\uncle\Music\SystemAdminAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\uncle\Music\SystemAdminAPI\obj\Debug\net8.0\SystemAd.8EECCFC5.Up2Date
+C:\Users\uncle\Music\SystemAdminAPI\obj\Debug\net8.0\SystemAdminAPI.dll
+C:\Users\uncle\Music\SystemAdminAPI\obj\Debug\net8.0\refint\SystemAdminAPI.dll
+C:\Users\uncle\Music\SystemAdminAPI\obj\Debug\net8.0\SystemAdminAPI.pdb
+C:\Users\uncle\Music\SystemAdminAPI\obj\Debug\net8.0\SystemAdminAPI.genruntimeconfig.cache
+C:\Users\uncle\Music\SystemAdminAPI\obj\Debug\net8.0\ref\SystemAdminAPI.dll
+c:\Users\uncle\Music\UserCRUB API\obj\Debug\net8.0\SystemAdminAPI.csproj.AssemblyReference.cache
+c:\Users\uncle\Music\UserCRUB API\obj\Debug\net8.0\SystemAdminAPI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\uncle\Music\UserCRUB API\obj\Debug\net8.0\SystemAdminAPI.AssemblyInfoInputs.cache
+c:\Users\uncle\Music\UserCRUB API\obj\Debug\net8.0\SystemAdminAPI.AssemblyInfo.cs
+c:\Users\uncle\Music\UserCRUB API\obj\Debug\net8.0\SystemAdminAPI.csproj.CoreCompileInputs.cache
+c:\Users\uncle\Music\UserCRUB API\obj\Debug\net8.0\SystemAdminAPI.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\uncle\Music\UserCRUB API\obj\Debug\net8.0\SystemAdminAPI.sourcelink.json
+c:\Users\uncle\Music\UserCRUB API\obj\Debug\net8.0\SystemAdminAPI.dll
+c:\Users\uncle\Music\UserCRUB API\obj\Debug\net8.0\refint\SystemAdminAPI.dll
+c:\Users\uncle\Music\UserCRUB API\obj\Debug\net8.0\SystemAdminAPI.pdb
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\appsettings.json
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\SystemAdminAPI.staticwebassets.endpoints.json
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\SystemAdminAPI.exe
+C:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\SystemAdminAPI.deps.json
+C:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\SystemAdminAPI.runtimeconfig.json
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\SystemAdminAPI.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\SystemAdminAPI.pdb
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Azure.Core.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Azure.Identity.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Humanizer.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\Mono.TextTemplating.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\System.CodeDom.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\System.Composition.Convention.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\System.Composition.Hosting.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\System.Composition.Runtime.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\System.Drawing.Common.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\System.Memory.Data.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\System.Runtime.Caching.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\System.Security.Permissions.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\System.Windows.Extensions.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\uncle\Music\UserCRUB API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+c:\Users\uncle\Music\UserCRUB API\obj\Debug\net8.0\scopedcss\bundle\SystemAdminAPI.styles.css
+c:\Users\uncle\Music\UserCRUB API\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\uncle\Music\UserCRUB API\obj\Debug\net8.0\staticwebassets.build.json.cache
+c:\Users\uncle\Music\UserCRUB API\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\uncle\Music\UserCRUB API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\uncle\Music\UserCRUB API\obj\Debug\net8.0\SystemAd.8EECCFC5.Up2Date
+C:\Users\uncle\Music\UserCRUB API\obj\Debug\net8.0\SystemAdminAPI.genruntimeconfig.cache
+C:\Users\uncle\Music\UserCRUB API\obj\Debug\net8.0\ref\SystemAdminAPI.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\obj\Debug\net8.0\SystemAdminAPI.csproj.AssemblyReference.cache
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\obj\Debug\net8.0\SystemAdminAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\obj\Debug\net8.0\SystemAdminAPI.AssemblyInfoInputs.cache
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\obj\Debug\net8.0\SystemAdminAPI.AssemblyInfo.cs
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\obj\Debug\net8.0\SystemAdminAPI.csproj.CoreCompileInputs.cache
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\obj\Debug\net8.0\SystemAdminAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\obj\Debug\net8.0\SystemAdminAPI.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\obj\Debug\net8.0\refint\SystemAdminAPI.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\obj\Debug\net8.0\SystemAdminAPI.pdb
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\appsettings.json
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\SystemAdminAPI.staticwebassets.endpoints.json
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\SystemAdminAPI.exe
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\SystemAdminAPI.deps.json
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\SystemAdminAPI.runtimeconfig.json
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\SystemAdminAPI.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\SystemAdminAPI.pdb
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\obj\Debug\net8.0\scopedcss\bundle\SystemAdminAPI.styles.css
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\obj\Debug\net8.0\SystemAd.8EECCFC5.Up2Date
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\obj\Debug\net8.0\SystemAdminAPI.genruntimeconfig.cache
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\obj\Debug\net8.0\ref\SystemAdminAPI.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\AppUsersAPI.Domain.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\AppUsersAPI.Infrastructure.dll
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\AppUsersAPI.Infrastructure.pdb
+C:\Users\cacar\Downloads\UserCRUB API\UserCRUB API\bin\Debug\net8.0\AppUsersAPI.Domain.pdb

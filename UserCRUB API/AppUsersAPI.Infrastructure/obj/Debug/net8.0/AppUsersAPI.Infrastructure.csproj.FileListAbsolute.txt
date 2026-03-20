@@ -1,0 +1,17 @@
+C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Infrastructure\bin\Debug\net8.0\AppUsersAPI.Infrastructure.deps.json
+C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Infrastructure\bin\Debug\net8.0\AppUsersAPI.Infrastructure.runtimeconfig.json
+C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Infrastructure\bin\Debug\net8.0\AppUsersAPI.Infrastructure.dll
+C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Infrastructure\bin\Debug\net8.0\AppUsersAPI.Infrastructure.pdb
+C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Infrastructure\bin\Debug\net8.0\AppUsersAPI.Domain.dll
+C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Infrastructure\bin\Debug\net8.0\AppUsersAPI.Domain.pdb
+C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsersAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsersAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsersAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsersAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsersAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsers.804A9FFA.Up2Date
+C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsersAPI.Infrastructure.dll
+C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\refint\AppUsersAPI.Infrastructure.dll
+C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsersAPI.Infrastructure.pdb
+C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsersAPI.Infrastructure.genruntimeconfig.cache
+C:\Users\cacar\Downloads\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\ref\AppUsersAPI.Infrastructure.dll

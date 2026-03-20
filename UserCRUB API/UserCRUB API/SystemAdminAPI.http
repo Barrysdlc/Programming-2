@@ -1,0 +1,46 @@
+@SystemAdminAPI_HostAddress = http://localhost:5202
+
+### Get All Users
+GET {{SystemAdminAPI_HostAddress}}
+Accept: application/json
+
+### Get User By Id
+GET {{SystemAdminAPI_HostAddress}}/api/users/1
+Accept: application/json
+
+### Create New User
+POST {{SystemAdminAPI_HostAddress}}/api/users/
+Content-Type: application/json
+
+{
+  "name": "richard",
+  "email": "richard@gmail.com",
+  "password": "richardl1234",
+  "phone": "+1-809-555-1234"
+}
+
+### Update User
+PUT {{SystemAdminAPI_HostAddress}}/api/users/2
+Content-Type: application/json
+
+{
+  "name": "casi",
+  "email": "casi@gmail.com",
+  "password": "casi1424",
+  "phone": "+1-809-555-3678"
+}
+
+### Delete User
+DELETE {{SystemAdminAPI_HostAddress}}/api/users/7
+Content-Type: application/json
+
+### Create User Without Phone (Optional)
+POST {{SystemAdminAPI_HostAddress}}/api/users/
+Content-Type: application/json
+
+{
+  "name": "maria",
+  "email": "maria@gmail.com",
+  "password": "maria1234",
+  "phone": ""
+}
