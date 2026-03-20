@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\SystemAdminAPI.csproj": {}
+    "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\UserCRUB API\\SystemAdminAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Domain\\AppUsersAPI.Domain.csproj": {
+    "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\AppUsersAPI.Domain\\AppUsersAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Domain\\AppUsersAPI.Domain.csproj",
+        "projectUniqueName": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\AppUsersAPI.Domain\\AppUsersAPI.Domain.csproj",
         "projectName": "AppUsersAPI.Domain",
-        "projectPath": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Domain\\AppUsersAPI.Domain.csproj",
+        "projectPath": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\AppUsersAPI.Domain\\AppUsersAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\cacar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Domain\\obj\\",
+        "outputPath": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\AppUsersAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Infrastructure\\AppUsersAPI.Infrastructure.csproj": {
+    "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\AppUsersAPI.Infrastructure\\AppUsersAPI.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Infrastructure\\AppUsersAPI.Infrastructure.csproj",
+        "projectUniqueName": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\AppUsersAPI.Infrastructure\\AppUsersAPI.Infrastructure.csproj",
         "projectName": "AppUsersAPI.Infrastructure",
-        "projectPath": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Infrastructure\\AppUsersAPI.Infrastructure.csproj",
+        "projectPath": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\AppUsersAPI.Infrastructure\\AppUsersAPI.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\cacar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Infrastructure\\obj\\",
+        "outputPath": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\AppUsersAPI.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Domain\\AppUsersAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Domain\\AppUsersAPI.Domain.csproj"
+              "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\AppUsersAPI.Domain\\AppUsersAPI.Domain.csproj": {
+                "projectPath": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\AppUsersAPI.Domain\\AppUsersAPI.Domain.csproj"
               }
             }
           }
@@ -160,14 +160,14 @@
         }
       }
     },
-    "C:\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\SystemAdminAPI.csproj": {
+    "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\UserCRUB API\\SystemAdminAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\SystemAdminAPI.csproj",
+        "projectUniqueName": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\UserCRUB API\\SystemAdminAPI.csproj",
         "projectName": "SystemAdminAPI",
-        "projectPath": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\SystemAdminAPI.csproj",
+        "projectPath": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\UserCRUB API\\SystemAdminAPI.csproj",
         "packagesPath": "C:\\Users\\cacar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\obj\\",
+        "outputPath": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\UserCRUB API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -188,8 +188,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Infrastructure\\AppUsersAPI.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Infrastructure\\AppUsersAPI.Infrastructure.csproj"
+              "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\AppUsersAPI.Infrastructure\\AppUsersAPI.Infrastructure.csproj": {
+                "projectPath": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\AppUsersAPI.Infrastructure\\AppUsersAPI.Infrastructure.csproj"
               }
             }
           }

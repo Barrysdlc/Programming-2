@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{67054B49-A619-42B7-B548-C67DAB7F0AB8}|SystemAdminAPI.csproj|c:\\users\\cacar\\downloads\\usercrub api\\usercrub api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67054B49-A619-42B7-B548-C67DAB7F0AB8}|SystemAdminAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{67054B49-A619-42B7-B548-C67DAB7F0AB8}|SystemAdminAPI.csproj|c:\\users\\cacar\\downloads\\usercrub api\\usercrub api\\controllers\\usercotrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67054B49-A619-42B7-B548-C67DAB7F0AB8}|SystemAdminAPI.csproj|solutionrelative:controllers\\usercotrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,10 +19,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{005AD422-17EB-4678-9EDD-DA597A04F5E6}|..\\AppUsersAPI.Infrastructure\\AppUsersAPI.Infrastructure.csproj|c:\\users\\cacar\\downloads\\usercrub api\\appusersapi.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67054B49-A619-42B7-B548-C67DAB7F0AB8}|SystemAdminAPI.csproj|c:\\users\\cacar\\downloads\\usercrub api\\usercrub api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67054B49-A619-42B7-B548-C67DAB7F0AB8}|SystemAdminAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67054B49-A619-42B7-B548-C67DAB7F0AB8}|SystemAdminAPI.csproj|c:\\users\\cacar\\downloads\\usercrub api\\usercrub api\\migrations\\20260320030907_test2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -92,11 +92,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -110,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "..\\AppUsersAPI.Infrastructure\\Repositories\\UserRepository.cs",
@@ -175,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Domain\\Entities\\Users.cs",
               "RelativeDocumentMoniker": "..\\AppUsersAPI.Domain\\Entities\\Users.cs",
@@ -188,12 +188,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserCotrollers.cs",
               "DocumentMoniker": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\Controllers\\UserCotrollers.cs",
               "RelativeDocumentMoniker": "Controllers\\UserCotrollers.cs",
-              "ToolTip": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\Controllers\\UserCotrollers.cs*",
-              "RelativeToolTip": "Controllers\\UserCotrollers.cs*",
+              "ToolTip": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\Controllers\\UserCotrollers.cs",
+              "RelativeToolTip": "Controllers\\UserCotrollers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T02:17:12.849Z",
@@ -214,12 +214,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserDTOs.cs",
               "DocumentMoniker": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\DTOs\\UserDTOs.cs",
               "RelativeDocumentMoniker": "DTOs\\UserDTOs.cs",
-              "ToolTip": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\DTOs\\UserDTOs.cs*",
-              "RelativeToolTip": "DTOs\\UserDTOs.cs*",
+              "ToolTip": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\DTOs\\UserDTOs.cs",
+              "RelativeToolTip": "DTOs\\UserDTOs.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T02:12:31.033Z",
