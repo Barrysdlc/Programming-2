@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AppUsersAPI.Application/1.0.0": {
+        "dependencies": {
+          "AppUsersAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AppUsersAPI.Application.dll": {}
+        }
+      },
+      "AppUsersAPI.Domain/1.0.0": {
+        "runtime": {
+          "AppUsersAPI.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppUsersAPI.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppUsersAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

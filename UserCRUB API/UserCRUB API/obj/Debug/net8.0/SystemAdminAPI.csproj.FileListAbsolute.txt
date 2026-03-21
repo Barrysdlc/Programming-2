@@ -537,3 +537,5 @@ C:\ITLA WORKS\Programming-2\UserCRUB API\UserCRUB API\obj\Debug\net8.0\refint\Sy
 C:\ITLA WORKS\Programming-2\UserCRUB API\UserCRUB API\obj\Debug\net8.0\SystemAdminAPI.pdb
 C:\ITLA WORKS\Programming-2\UserCRUB API\UserCRUB API\obj\Debug\net8.0\SystemAdminAPI.genruntimeconfig.cache
 C:\ITLA WORKS\Programming-2\UserCRUB API\UserCRUB API\obj\Debug\net8.0\ref\SystemAdminAPI.dll
+C:\ITLA WORKS\Programming-2\UserCRUB API\UserCRUB API\bin\Debug\net8.0\AppUsersAPI.Application.dll
+C:\ITLA WORKS\Programming-2\UserCRUB API\UserCRUB API\bin\Debug\net8.0\AppUsersAPI.Application.pdb

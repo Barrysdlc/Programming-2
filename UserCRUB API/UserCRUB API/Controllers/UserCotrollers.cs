@@ -9,11 +9,11 @@ namespace SystemAdminAPI.Controllers
     [Route("api/[controller]")]
     public class UsersController : ControllerBase
     {
-        private readonly IUserRepository _db;
+        private readonly IUserService _db;
 
-        public UsersController(IUserRepository context)
+        public UsersController(IUserService db)
         {
-            _db = context;
+            _db = db;
         }
 
         

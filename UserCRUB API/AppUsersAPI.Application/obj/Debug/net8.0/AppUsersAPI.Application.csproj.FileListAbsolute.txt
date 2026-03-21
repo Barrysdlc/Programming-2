@@ -1,0 +1,16 @@
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Application\bin\Debug\net8.0\AppUsersAPI.Application.deps.json
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Application\bin\Debug\net8.0\AppUsersAPI.Application.dll
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Application\bin\Debug\net8.0\AppUsersAPI.Application.pdb
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Application\bin\Debug\net8.0\AppUsersAPI.Domain.dll
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Application\bin\Debug\net8.0\AppUsersAPI.Domain.pdb
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Application\obj\Debug\net8.0\AppUsersAPI.Application.csproj.AssemblyReference.cache
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Application\obj\Debug\net8.0\AppUsersAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Application\obj\Debug\net8.0\AppUsersAPI.Application.AssemblyInfoInputs.cache
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Application\obj\Debug\net8.0\AppUsersAPI.Application.AssemblyInfo.cs
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Application\obj\Debug\net8.0\AppUsersAPI.Application.csproj.CoreCompileInputs.cache
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Application\obj\Debug\net8.0\AppUsersAPI.Application.sourcelink.json
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Application\obj\Debug\net8.0\AppUsers.FCE862B7.Up2Date
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Application\obj\Debug\net8.0\AppUsersAPI.Application.dll
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Application\obj\Debug\net8.0\refint\AppUsersAPI.Application.dll
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Application\obj\Debug\net8.0\AppUsersAPI.Application.pdb
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Application\obj\Debug\net8.0\ref\AppUsersAPI.Application.dll

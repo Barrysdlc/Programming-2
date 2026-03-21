@@ -33,3 +33,5 @@ C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\ne
 C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsersAPI.Infrastructure.pdb
 C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\AppUsersAPI.Infrastructure.genruntimeconfig.cache
 C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\obj\Debug\net8.0\ref\AppUsersAPI.Infrastructure.dll
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\bin\Debug\net8.0\AppUsersAPI.Application.dll
+C:\ITLA WORKS\Programming-2\UserCRUB API\AppUsersAPI.Infrastructure\bin\Debug\net8.0\AppUsersAPI.Application.pdb
