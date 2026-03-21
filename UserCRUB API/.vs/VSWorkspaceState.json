@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AppUsersAPI.Domain",
+    "\\AppUsersAPI.Domain\\bin",
+    "\\AppUsersAPI.Domain\\Core",
+    "\\AppUsersAPI.Domain\\Entities",
+    "\\AppUsersAPI.Domain\\obj",
+    "\\AppUsersAPI.Domain\\obj\\Debug",
+    "\\AppUsersAPI.Domain\\obj\\Release",
+    "\\AppUsersAPI.Infrastructure"
+  ],
+  "SelectedNode": "\\AppUsersAPI.Infrastructure",
+  "PreviewInSolutionExplorer": false
+}
