@@ -2,10 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\AppUsersAPI.Domain",
-    "\\AppUsersAPI.Domain\\Core",
-    "\\AppUsersAPI.Infrastructure\\Models",
     "\\UserCRUB API"
   ],
-  "SelectedNode": "\\AppUsersAPI.Domain\\Core\\BaseEntity.cs",
   "PreviewInSolutionExplorer": false
 }
