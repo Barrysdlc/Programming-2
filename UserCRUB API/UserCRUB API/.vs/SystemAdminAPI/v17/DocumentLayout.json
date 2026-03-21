@@ -6,10 +6,6 @@
       "AbsoluteMoniker": "D:0:0:{9D359B17-08A9-4934-A984-CFDC977A2077}|..\\AppUsersAPI.Application\\AppUsersAPI.Application.csproj|c:\\itla works\\programming-2\\usercrub api\\appusersapi.application\\appusersapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D359B17-08A9-4934-A984-CFDC977A2077}|..\\AppUsersAPI.Application\\AppUsersAPI.Application.csproj|c:\\itla works\\programming-2\\usercrub api\\usercrub api\\..\\appusersapi.application\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D359B17-08A9-4934-A984-CFDC977A2077}|..\\AppUsersAPI.Application\\AppUsersAPI.Application.csproj|solutionrelative:..\\appusersapi.application\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Infrastructure\\Data\\DbContext\\DbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -81,6 +77,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{67054B49-A619-42B7-B548-C67DAB7F0AB8}|SystemAdminAPI.csproj|c:\\itla works\\programming-2\\usercrub api\\usercrub api\\migrations\\20260320030907_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67054B49-A619-42B7-B548-C67DAB7F0AB8}|SystemAdminAPI.csproj|solutionrelative:migrations\\20260320030907_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\itla works\\programming-2\\usercrub api\\usercrub api\\..\\appusersapi.application\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:..\\appusersapi.application\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,11 +90,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\UserCRUB API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -106,9 +106,13 @@
               "IsPinned": true
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppUsersAPI.Application",
+              "Title": "AppUsersAPI.Application.csproj",
               "DocumentMoniker": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\AppUsersAPI.Application\\AppUsersAPI.Application.csproj",
               "RelativeDocumentMoniker": "..\\AppUsersAPI.Application\\AppUsersAPI.Application.csproj",
               "ToolTip": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\AppUsersAPI.Application\\AppUsersAPI.Application.csproj",
@@ -121,23 +125,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\AppUsersAPI.Application\\Repository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "..\\AppUsersAPI.Application\\Repository\\IUserRepository.cs",
-              "ToolTip": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\AppUsersAPI.Application\\Repository\\IUserRepository.cs",
-              "RelativeToolTip": "..\\AppUsersAPI.Application\\Repository\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T02:41:40.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "DbContext.cs",
               "DocumentMoniker": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Infrastructure\\Data\\DbContext\\DbContext.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Infrastructure\\Data\\DbContext\\DbContext.cs",
@@ -145,12 +132,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Infrastructure\\Data\\DbContext\\DbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T03:56:07.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T03:56:07.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Infrastructure\\Repositories\\UserRepository.cs",
@@ -162,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Domain\\Repository\\IUserRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Domain\\Repository\\IUserRepository.cs",
@@ -174,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "AppUsersAPI.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Infrastructure\\AppUsersAPI.Infrastructure.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Infrastructure\\AppUsersAPI.Infrastructure.csproj",
@@ -186,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Infrastructure\\Models\\Users.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Infrastructure\\Models\\Users.cs",
@@ -194,12 +180,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Infrastructure\\Models\\Users.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T03:44:23.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T03:44:23.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Domain\\Entities\\Users.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Domain\\Entities\\Users.cs",
@@ -207,12 +192,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Domain\\Entities\\Users.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T03:41:01.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T03:41:01.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "UserCotrollers.cs",
               "DocumentMoniker": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\UserCRUB API\\Controllers\\UserCotrollers.cs",
               "RelativeDocumentMoniker": "Controllers\\UserCotrollers.cs",
@@ -224,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\UserCRUB API\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
@@ -236,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "20260320030907_test2.Designer.cs",
               "DocumentMoniker": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\UserCRUB API\\Migrations\\20260320030907_test2.Designer.cs",
               "RelativeDocumentMoniker": "Migrations\\20260320030907_test2.Designer.cs",
@@ -248,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "AppUsersAPI.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Domain\\AppUsersAPI.Domain.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Domain\\AppUsersAPI.Domain.csproj",
@@ -260,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Domain\\Core\\BaseEntity.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Domain\\Core\\BaseEntity.cs",
@@ -268,12 +252,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\Users\\cacar\\Downloads\\UserCRUB API\\AppUsersAPI.Domain\\Core\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T03:39:17.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T03:39:17.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "20260320023710_test.cs",
               "DocumentMoniker": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\Migrations\\20260320023710_test.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\Migrations\\20260320023710_test.cs",
@@ -285,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\UserCRUB API\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -297,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "SystemAdminAPI.csproj",
               "DocumentMoniker": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\UserCRUB API\\SystemAdminAPI.csproj",
               "RelativeDocumentMoniker": "SystemAdminAPI.csproj",
@@ -310,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "20260320024453_test2.cs",
               "DocumentMoniker": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\Migrations\\20260320024453_test2.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\Migrations\\20260320024453_test2.cs",
@@ -322,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "20260320025118_test2.cs",
               "DocumentMoniker": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\Migrations\\20260320025118_test2.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\Migrations\\20260320025118_test2.cs",
@@ -334,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "20260320030907_test2.cs",
               "DocumentMoniker": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\UserCRUB API\\Migrations\\20260320030907_test2.cs",
               "RelativeDocumentMoniker": "Migrations\\20260320030907_test2.cs",
@@ -346,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "20260320025424_test2.cs",
               "DocumentMoniker": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\Migrations\\20260320025424_test2.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\Migrations\\20260320025424_test2.cs",
@@ -358,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "AppDbContextAdminModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\Migrations\\AppDbContextAdminModelSnapshot.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\Migrations\\AppDbContextAdminModelSnapshot.cs",
@@ -370,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "AdminDTOs.cs",
               "DocumentMoniker": "C:\\Users\\henry\\OneDrive\\Desktop\\Projects\\C#\\SystemAdminAPI\\DTOs\\AdminDTOs.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\henry\\OneDrive\\Desktop\\Projects\\C#\\SystemAdminAPI\\DTOs\\AdminDTOs.cs",
@@ -381,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "Admin.cs",
               "DocumentMoniker": "C:\\Users\\henry\\OneDrive\\Desktop\\Projects\\C#\\SystemAdminAPI\\Entities\\Admin.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\henry\\OneDrive\\Desktop\\Projects\\C#\\SystemAdminAPI\\Entities\\Admin.cs",
@@ -389,6 +372,18 @@
               "RelativeToolTip": "..\\..\\..\\..\\Users\\henry\\OneDrive\\Desktop\\Projects\\C#\\SystemAdminAPI\\Entities\\Admin.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T19:16:03.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\AppUsersAPI.Application\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\AppUsersAPI.Application\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\AppUsersAPI.Application\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "..\\AppUsersAPI.Application\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T02:41:40.461Z"
             },
             {
               "$type": "Bookmark",
