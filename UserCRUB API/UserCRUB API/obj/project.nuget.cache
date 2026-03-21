@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OH2GLwWBOqY=",
+  "dgSpecHash": "C4FkBe8/YDo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\cacar\\Downloads\\UserCRUB API\\UserCRUB API\\SystemAdminAPI.csproj",
+  "projectFilePath": "C:\\ITLA WORKS\\Programming-2\\UserCRUB API\\UserCRUB API\\SystemAdminAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cacar\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\cacar\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
